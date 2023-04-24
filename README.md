@@ -24,7 +24,7 @@ MNE library is used to filter and segment data. Normalization is done with sciki
 * Segmentation
 * Normalization
 
-#Processing
+# Processing
 
 Scikit-learn library is used to apply machine learning algorithms, and TensorFlow library is used to apply deep learning algorithms. The following classifiers are implemented:
 
