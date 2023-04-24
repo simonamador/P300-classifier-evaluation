@@ -1,1 +1,1 @@
-# P300_classifier_evaluation
+# P300-classifier-evaluation
