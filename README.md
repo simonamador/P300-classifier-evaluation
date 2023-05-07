@@ -1,6 +1,6 @@
 # P300-classifier-evaluation
 
-This work was done for the VIRTUAL BR41N.IO HACKATHON Spring School 2023.
+*This work was done for the VIRTUAL BR41N.IO HACKATHON Spring School 2023.*
 
 Worked with a dataset of two subject, which consists of 4 registers each:
 
